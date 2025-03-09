@@ -16,7 +16,7 @@ Dla każdego testu odpowiedź powinna pojawić się w osobnym wierszu standardow
 wyjścia. Powinna ona zawierać ciąg cyfr reprezentujący liczbę będącą wynikiem danego
 działania. Jeśli wynik działania jest ujemny, wynikowy ciąg cyfr powinien być poprzedzony
 znakiem ‘-‘.
-#Przykład
+Przykład
 Dla danych:
 4
 12345678901234567890+98765432109876543210
